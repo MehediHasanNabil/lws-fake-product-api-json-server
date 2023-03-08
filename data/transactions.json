@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Salary from Google",
+        "type": "income",
+        "amount": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Family Expenses",
+        "type": "expense",
+        "amount": 200000
+    },
+    {
+        "name": "pendrive",
+        "type": "expense",
+        "amount": 600,
+        "id": 3
+    },
+    {
+        "name": "Fiverr",
+        "type": "income",
+        "amount": 50000,
+        "id": 4
+    },
+    {
+        "name": "Sell Books",
+        "type": "income",
+        "amount": 5000,
+        "id": 5
+    },
+    {
+        "name": "Shopping",
+        "type": "expense",
+        "amount": 15000,
+        "id": 6
+    },
+    {
+        "name": "Buy Software",
+        "type": "expense",
+        "amount": 25000,
+        "id": 7
+    },
+    {
+        "name": "Buy Phone",
+        "type": "expense",
+        "amount": 34000,
+        "id": 8
+    },
+    {
+        "name": "Buy Calculator",
+        "type": "expense",
+        "amount": 600,
+        "id": 9
+    },
+    {
+        "name": "Enroll Online Redux Course",
+        "type": "expense",
+        "amount": 2000,
+        "id": 10
+    },
+    {
+        "name": "Teaching",
+        "type": "income",
+        "amount": 10000,
+        "id": 11
+    },
+    {
+        "name": "Buy Furniture",
+        "type": "expense",
+        "amount": 50000,
+        "id": 12
+    },
+    {
+        "name": "Salary from Facebook",
+        "type": "income",
+        "amount": 5000,
+        "id": 13
+    },
+    {
+        "name": "Restaurants Expenses",
+        "type": "expense",
+        "amount": 20000,
+        "id": 14
+    },
+    {
+        "name": "Buy some Furniture",
+        "type": "expense",
+        "amount": 50000,
+        "id": 15
+    },
+    {
+        "name": "Salary from Twitter",
+        "type": "income",
+        "amount": 5000,
+        "id": 16
+    },
+    {
+        "name": "Restaurants",
+        "type": "expense",
+        "amount": 30000,
+        "id": 17
+    }
+]

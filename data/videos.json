@@ -1,0 +1,304 @@
+[
+    {
+        "id": 1,
+        "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+        "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+        "author": "Learn with Sumit",
+        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+        "date": "May 10, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+        "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+        "tags": [
+            "javascript",
+            "react",
+            "tips"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 2,
+        "title": "VS Code Snippets - Boost your productivity with User Snippets",
+        "description": "আমরা যখন Visual Studio Code Editor এ কাজ করি তখন অহরহ ব্যবহৃত কোড ব্লক গুলো আমাদের কে বারবার টাইপ করতে হয় এবং সামগ্রিকভাবে চিন্তা করলে এরকম ছোট ছোট ম্যনুয়াল কাজ আমাদের productivity অনেকাংশেই কমিয়ে দেয়। VS Code এর বিল্ট ইন ইউজার স্নিপেট ফিচারের মাধ্যমে আমরা কমন কাজগুলো স্নিপেট আকারে সাজিয়ে রেখে দিতে পারি এবং শর্টকাট কমান্ডের মাধ্যমে বড় বড় কোড ব্লক গুলো নিয়ে আসতে পারি। এই ভিডিওতে আপনারা এটাই জানতে পারবেন যে কিভাবে আমরা Visual Studio Code Editor এ কাস্টম স্নিপেট লিখতে পারি।",
+        "author": "Learn with Sumit",
+        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+        "date": "April 25, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
+        "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
+        "tags": [
+            "vscode",
+            "tips"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 3,
+        "title": "Tailwind CSS 3 tutorial - Upgrade to Tailwind 3 | Tailwind CSS Bangla Tutorial",
+        "description": "Tailwind CSS v3.0 came with incredible performance gains, huge workflow improvements, and a seriously ridiculous number of new features. In this tutorial - I have tried to explain different new features of Tailwind CSS version 3, how to install tailwind css 3, how to upgrade from tailwind v2 to v3 etc.",
+        "author": "Learn with Sumit",
+        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+        "date": "March 11, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
+        "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
+        "tags": [
+            "tailwind",
+            "css"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 4,
+        "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+        "description": "In this video, I have explained about the debounce function in JavaScript. This is a common question interviewers ask at Job Interviews. If you watch this video carefully, you will understand what is debounce and how to handle it with custom debounce function.",
+        "author": "Learn with Sumit",
+        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+        "date": "Jan 06, 2022",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
+        "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
+        "tags": [
+            "debounce",
+            "javascript",
+            "tips"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 5,
+        "title": "SASS Tutorial in English - Overview of SASS",
+        "description": "In this video, I have given a high level overview of popular CSS Pre-processor SASS which helps us managing our styles at scale. If you have a basic understanding of CSS & JavaScript, this 10 mins SASS Tutorial will help you getting started with SASS.",
+        "author": "Learn with Sumit",
+        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+        "date": "Nov 22, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
+        "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
+        "tags": [
+            "sass",
+            "css",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 6,
+        "title": "React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+        "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. ",
+        "author": "Learn with Sumit",
+        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+        "date": "Nov 08, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
+        "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+        "tags": [
+            "react",
+            "router",
+            "javascript"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 7,
+        "title": "Tailwind CSS Tutorial Bangla - Introduction to Tailwind CSS",
+        "description": "Tailwind is a utility-first CSS framework to rapidly build modern websites without ever leaving your HTML. In this Tailwind CSS tutorial, I have given a short introduction and overview of Tailwind CSS in Bangla language. Also, I have explained, why Tailwind vs Bootstrap debate should be stopped as both are useful in their own ways.",
+        "author": "Learn with Sumit",
+        "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+        "date": "Oct 15, 2021",
+        "duration": "10:12",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
+        "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
+        "tags": [
+            "tailwind",
+            "css",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 8,
+        "title": "Animated website design using tailwind css",
+        "description": "Animated website design using tailwind css",
+        "author": "Tailwind Labs",
+        "avatar": "https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Feb 22, 2022",
+        "duration": "10:12",
+        "views": "1.59k",
+        "link": "https://www.youtube-nocookie.com/embed/0TOqn6ARj9s",
+        "thumbnail": "https://i.ytimg.com/vi/0TOqn6ARj9s/hq720.jpg",
+        "tags": [
+            "tailwind",
+            "css",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 9,
+        "title": "Building Blurry, Animated Background Shapes with Tailwind CSS",
+        "description": "In this video, you'll learn how to recreate this cool blurry, animated shape effect I noticed on the Qoals landing page the other day! We'll do it with a combination of CSS filters, mix-blend-mode, and custom animations.",
+        "author": "Tailwind Labs",
+        "avatar": "https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Feb 22, 2022",
+        "duration": "9:47",
+        "views": "1.59k",
+        "link": "https://www.youtube-nocookie.com/embed/nJzKi6oIvBA",
+        "thumbnail": "https://i.ytimg.com/vi/Tmkr2kKUEgU/hqdefault.jpg",
+        "tags": [
+            "tailwind",
+            "css",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 10,
+        "title": "Controlling Stacking Contexts with Isolation Utilities – What's new in Tailwind CSS",
+        "description": "In this video, we take a look at the new `isolation` utilities added in Tailwind CSS v2.1, which are useful when working with mix-blend-modes or to create a new stacking context.",
+        "author": "Tailwind Labs",
+        "avatar": "https://yt3.ggpht.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Feb 12, 2020",
+        "duration": "8:54",
+        "views": "1.59k",
+        "link": "https://www.youtube-nocookie.com/embed/RZ9cWr3tY9w",
+        "thumbnail": "https://i.ytimg.com/vi/RZ9cWr3tY9w/hqdefault.jpg",
+        "tags": [
+            "tailwind",
+            "css",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 11,
+        "title": "React Bangla Tutorial 15 : How to use react icons in your project",
+        "description": "🔴 In this video, I will show how to use, and style react-icons in a react project.⭐️ Video Contents ⭐️",
+        "author": "Anisul Islam",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Nov 08, 2021",
+        "duration": "8:58",
+        "views": "1k",
+        "link": "https://www.youtube-nocookie.com/embed/jHDP6myBXRM",
+        "thumbnail": "https://i.ytimg.com/vi/jHDP6myBXRM/hqdefault.jpg",
+        "tags": [
+            "react",
+            "router",
+            "javascript"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 12,
+        "title": "React Bangla Tutorial 1 : Introduction to React",
+        "description": "In this video, I will discuss what is react and why do you need React.js.🔴 Find All the React Code in GitHub - https://github.com/anisul-Islam/react...⭐️ Video Contents ⭐️",
+        "author": "Anisul Islam",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Nov 08, 2021",
+        "duration": "5:57",
+        "views": "2.1k",
+        "link": "https://www.youtube-nocookie.com/embed/fRXL0X2WSK4",
+        "thumbnail": "https://i.ytimg.com/vi/fRXL0X2WSK4/hqdefault.jpg",
+        "tags": [
+            "react",
+            "router",
+            "javascript"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 13,
+        "title": "Git and Github bangla tutorial 2 : introduction to git and GitHub",
+        "description": "In this video, I will explain why do we need a version control system such as git. I will also explain what is the purpose of GitHub. In the end, I will explain the key differences between git and GitHub.",
+        "author": "Anisul Islam",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Oct 15, 2021",
+        "duration": "9.55",
+        "views": "1.1k",
+        "link": "https://www.youtube-nocookie.com/embed/ulTs4vqOzyo",
+        "thumbnail": "https://i.ytimg.com/vi/ulTs4vqOzyo/hqdefault.jpg",
+        "tags": [
+            "react",
+            "router",
+            "javascript"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 14,
+        "title": "VS Code Top-Ten Pro Tips",
+        "description": "Get the latest and greatest VS Code pro tips in the 2021 video 👉 ",
+        "author": "Fireship",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Nov 08, 2019",
+        "duration": "9:35",
+        "views": "2k",
+        "link": "https://www.youtube-nocookie.com/embed/u21W_tfPVrY",
+        "thumbnail": "https://i.ytimg.com/vi/u21W_tfPVrY/hq720.jpg",
+        "tags": [
+            "tips",
+            "vscode",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 15,
+        "title": "VS Code in 100 Seconds",
+        "description": "Visual Studio Code is an open-source lightweight code editor maintained by Microsoft. Get the full VS Code Magic Tricks course to write better code faster",
+        "author": "Fireship",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+        "date": "May 10, 2022",
+        "duration": "2:33",
+        "views": "773k",
+        "link": "https://www.youtube-nocookie.com/embed/KMxo3T_MTvY",
+        "thumbnail": "https://i.ytimg.com/vi/KMxo3T_MTvY/hq720.jpg",
+        "tags": [
+            "tips",
+            "vscode",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    },
+    {
+        "id": 16,
+        "title": "25 VS Code Productivity Tips and Speed Hacks",
+        "description": "Learn 25 VS Code tips and tricks that will help you write code faster. Try out awesome new features and extensions that turn your editor into a full-blown IDE. https://fireship.io/pro",
+        "author": "Fireship",
+        "avatar": "https://yt3.ggpht.com/ytc/AMLnZu80d66aj0mK3KEyMfpdGFyrVWdV5tfezE17IwRkhw=s88-c-k-c0x00ffffff-no-rj",
+        "date": "Nov 08, 2021",
+        "duration": "11:34",
+        "views": "1.2M",
+        "link": "https://www.youtube-nocookie.com/embed/ifTF3ags0XI",
+        "thumbnail": "https://i.ytimg.com/vi/ifTF3ags0XI/hq720.jpg",
+        "tags": [
+            "tips",
+            "vscode",
+            "ui"
+        ],
+        "likes": 0,
+        "unlikes": 0
+    }
+]
